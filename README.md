@@ -5,6 +5,7 @@ Sinha NJ , Wu D , Kloxin CJ , Saven JG , Jensen GV , Pochan DJ . Polyelectrolyte
 
 Models can be used for scatterers with cylinder form factor (Cyl) and interacting via electrostatic interactions (CH).
 Models assume that cylinders form fractal-like networks (frac).
+Model that includes bundling of rods is also available (bundle)
 A resolution smeared data fitting option is also available (ResSm).
 Model that includes salt effects is also included (salt).
 
